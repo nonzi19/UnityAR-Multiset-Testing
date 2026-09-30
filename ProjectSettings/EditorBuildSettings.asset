@@ -6,11 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Start Scene.unity
+    guid: c2e50e7681d94db4383794de63281823
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/6_Navigation/Navigation.unity
+    guid: 12e9e7adf2223f74286601829e3499ba
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/3_Localization/Localization.unity
+    guid: 9ba3dfc6e7c02e541a3bc818ca6950c5
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/4_Mapping/Mapping.unity
+    guid: 8505520dcedb0144cbce10711f77504f
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/5_Multiplayer/Multiplayer Sample.unity
+    guid: 7c02bb79e12e5094a9fc9828cf32f127
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/10_Training/Training.unity
+    guid: 7573046cd625c5a4386c2051a64191d0
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene/3_Localization/Single Frame Localization.unity
+    guid: 206aa6990b3e7974bbc7504b03b4572b
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c98b709bd36ad2444aa4a718d3aa4908, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3ee6e14afac5aed41aa2c0d0b94a8fd0, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b0b1da6e8988e814089b2b0a06d78d75, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2aea7b2dc5dc884eb1341652ae30337, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 34592a79689818546b6cc5743bbf62e5, type: 2}
   m_UseUCBPForAssetBundles: 0
