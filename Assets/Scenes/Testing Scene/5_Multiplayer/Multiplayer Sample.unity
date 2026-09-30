@@ -2246,7 +2246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MultiplayerManager
   playerName: TestingNonzi
-  isHost: 0
+  isHost: 1
   sendRate: 20
   applyHandednessConversion: 0
   multipeerBridge: {fileID: 1271925312}
@@ -3892,8 +3892,22 @@ MonoBehaviour:
   alertMessage: 
   alertTimer: 0
   simulationDataResponse:
-    simulationData: []
-  selectedSimulationIndex: -1
+    simulationData:
+    - _id: 6a8278424da59662c6490742
+      name: OfficeSimu
+      fileSize: 576063
+      originalFilename: SimulationData.Zip
+      status: active
+      simulationCode: DE9CD7B9
+      s3Key: 6a02907f8d8eb96b2bdbb211/simulation_data/6a8278424da59662c6490742/6a8278424da59662c6490742.zip
+    - _id: 6a8271ef2136f2844774cf75
+      name: Testing simulation
+      fileSize: 486619
+      originalFilename: SimulationData.Zip
+      status: active
+      simulationCode: 36A16B17
+      s3Key: 6a02907f8d8eb96b2bdbb211/simulation_data/6a8271ef2136f2844774cf75/6a8271ef2136f2844774cf75.zip
+  selectedSimulationIndex: 0
   simulationDataDir: SimulationData
 --- !u!1 &1823040955
 GameObject:
