@@ -2246,7 +2246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MultiplayerManager
   playerName: TestingNonzi
-  isHost: 1
+  isHost: 0
   sendRate: 20
   applyHandednessConversion: 0
   multipeerBridge: {fileID: 1271925312}

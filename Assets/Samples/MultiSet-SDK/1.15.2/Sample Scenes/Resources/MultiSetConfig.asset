@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: MultiSetConfig
   m_EditorClassIdentifier: 
   baseUrl: https://api.multiset.ai
-  clientId: 7e215339-9adb-4692-8c8d-1919d1e54a8d
-  clientSecret: ca483d051bd7addb2aac95b7edd93a9f4235e89fab5374db9ceeb7cb9763cff5
+  clientId: 3dc6bd4a-a887-4e21-9b07-1269cc757d39
+  clientSecret: 640b496d3ee2118831b4828db94a90987fa44a51838329d5b97a97dac340dc0d
