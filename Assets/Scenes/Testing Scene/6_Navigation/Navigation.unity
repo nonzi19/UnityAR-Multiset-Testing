@@ -2688,6 +2688,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 457201100}
     - target: {fileID: 4164677170919121941, guid: d27ef900e515242458c5368b1b0eadb3, type: 3}
+      propertyPath: autoLocalize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4164677170919121941, guid: d27ef900e515242458c5368b1b0eadb3, type: 3}
       propertyPath: mapOrMapsetCode
       value: MSET_LMRGA7I8D3QI
       objectReference: {fileID: 0}
@@ -4869,6 +4873,10 @@ PrefabInstance:
       propertyPath: progressSlider
       value: 
       objectReference: {fileID: 6347457138793568321}
+    - target: {fileID: 6223266429924367176, guid: 655cd46b63c52478f864df229ba7c4c6, type: 3}
+      propertyPath: isCornersVisible
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6223266429924367176, guid: 655cd46b63c52478f864df229ba7c4c6, type: 3}
       propertyPath: invalidPathTimeout
       value: 30

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start Scene.unity
-    guid: c2e50e7681d94db4383794de63281823
+    path: Assets/Scenes/Development Scene/Iot Kit/Iot Kit.unity
+    guid: f47bb70a62058ae4691e4e44dae07be5
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c98b709bd36ad2444aa4a718d3aa4908, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3ee6e14afac5aed41aa2c0d0b94a8fd0, type: 2}
